@@ -1,3 +1,3 @@
 novelsparadise.site#$#.has-adblock-modal { overflow: auto !important; }
 novelsparadise.site#$#.adblock-modal { visibility: hidden !important; }
-novelsparadise.site#$#.adblock-modal { text-align: center !important; background-color: black !important; color: white !important; }
+novelsparadise.site#$#.chapter-content { text-align: center !important; background-color: black !important; color: white !important; }
