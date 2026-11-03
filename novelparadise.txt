@@ -1,1 +1,2 @@
-novelsparadise.site#$#.adblock-modal { visibility: hidden; }
+novelsparadise.site#$#.has-adblock-modal { overflow: auto !important; }
+novelsparadise.site#$#.adblock-modal { visibility: hidden !important; }
