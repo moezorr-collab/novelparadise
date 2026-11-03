@@ -1,0 +1,1 @@
+novelsparadise.site#@$#.adblock-modal { visibility: hidden; }
